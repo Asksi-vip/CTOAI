@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="emerald">#FF10B981</color>
+    <color name="emeraldDark">#FF047857</color>
+    <color name="bg">#FF0A0F0D</color>
+    <color name="card">#FF101A15</color>
+    <color name="cardStroke">#FF1E3A2C</color>
+    <color name="field">#FF0C1511</color>
+    <color name="textMain">#FFE5F5EC</color>
+    <color name="textMuted">#FF9CC7AD</color>
+    <color name="textDim">#FF5F8672</color>
+    <color name="rowBg">#FF0C1511</color>
+    <color name="amber">#FFFBBF24</color>
+    <color name="red">#FFF87171</color>
+</resources>

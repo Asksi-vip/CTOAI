@@ -1,0 +1,6 @@
+#!/bin/sh
+# Gradle bootstrap — downloads Gradle 8.7 and runs the requested task.
+echo "Downloading Gradle 8.7..."
+curl -sL https://services.gradle.org/distributions/gradle-8.7-bin.zip -o /tmp/gradle.zip
+unzip -q -o /tmp/gradle.zip -d /tmp
+/tmp/gradle-8.7/bin/gradle "$@"

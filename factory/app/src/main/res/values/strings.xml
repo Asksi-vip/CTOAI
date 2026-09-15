@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CTO AI المصنع</string>
+    <string name="app_tagline">مصنع تطبيقات أندرويد بجيبك — يسوي، يرفع، ويبني 📱</string>
+    <string name="login_btn">دخول</string>
+    <string name="token_hint">GitHub Personal Access Token (ghp_...)</string>
+    <string name="token_note">التوكن يبقى مخزن بجوالك بس — ما يطلع لأي مكان ثاني. يحتاج صلاحيات repo و workflow.</string>
+    <string name="create_btn">🚀 اسوي المشروع وارفعه</string>
+    <string name="app_name_label">اسم التطبيق</string>
+    <string name="app_name_hint">مثال: متجر الوفرة</string>
+    <string name="type_label">نوع التطبيق</string>
+    <string name="desc_label">وصف تطبيقك (اختياري)</string>
+    <string name="desc_hint">اشرح فكرتك بجملة أو جنتين…</string>
+    <string name="my_repos">مشاريعي</string>
+    <string name="logout">خروج</string>
+    <string name="download_apk">📥 تحميل الـ APK</string>
+    <string name="open_repo">🐙 فتح الريبو</string>
+    <string name="status_idle">جاهز للتصنيع</string>
+</resources>
